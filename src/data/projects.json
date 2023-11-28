@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Multi-Account Todo",
+    "imageSrc": "projects/project1.png",
+    "description": "This app stores Todo list for multiple users and can be accessed by their login credentials.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://yourtodo2340.netlify.app",
+    "source": "https://github.com/Ozymandias9708/MERN-STACK_MultiAccount_Todo"
+  },
+  {
+    "title": "My Weather App",
+    "imageSrc": "projects/project2.png",
+    "description": "App built with help of Rapid API which gives weather desciption of desired locations.",
+    "skills": ["React", "Express", "Node", "Rapid API"],
+    "demo": "https://myweatherapp2340.netlify.app",
+    "source": "https://github.com/Ozymandias9708/MyWeatherApp"
+  },
+  {
+    "title": "Flipperz",
+    "imageSrc": "projects/project3.png",
+    "description": "An interactive and animative card matching game with attracting visual effects.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://flipperz.netlify.app",
+    "source": "https://github.com/Ozymandias9708/FLIPPERZZ"
+  },
+  {
+    "title": "File-Sharing App",
+    "imageSrc": "projects/project4.png",
+    "description": "A file sharing app built with MERN stack for efficient and fast sharing of files via Links.",
+    "skills": ["React", "JavaScript"],
+    "demo": "https://sharefree2340.netlify.app",
+    "source": "https://github.com/Ozymandias9708/MERN-Stack-File-Sharing-Link-Generator-App"
+  }
+]
